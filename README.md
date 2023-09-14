@@ -4,7 +4,7 @@
 
 ## Hello, I'm Athmane Naciri! 👋
 
-I'm a student at [1337 Coding School](https://1337.ma/), pursuing a ***Certificate in Digital Technology Architecture*. My passion lies in web development, and I aspire to become a Senior Front-End Developer.
+I'm a student at [1337 Coding School](https://1337.ma/), pursuing a **Certificate in Digital Technology Architecture**. My passion lies in web development, and I aspire to become a Senior Front-End Developer.
 
 ### 🔨 Technologies I'm Familiar With
 
