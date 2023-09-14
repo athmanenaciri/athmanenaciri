@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake">
+  <img src="https://tenor.com/fr/view/math-zach-galifianakis-mathematics-maths-equations-gif-11093327" alt="Math">
 </p>
 
 ## Hello, I'm Athmane Naciri! 👋
