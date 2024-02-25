@@ -15,7 +15,6 @@ Here are some of the technologies and programming languages I've been working wi
 - HTML/CSS
 - python
 - Git & GitHub
-- and more!
 
 ### 🌱 Current Learning Focus
 
